@@ -117,7 +117,7 @@ for(let i = usetr.length-1; i>=0; i--){
 /*
 
 let user1= prompt('введи текст');
-let user2 = prompt('выбери сивол ');
+let user2 = prompt('выбери символ ');
 let count = 0;
 for(let i = 0; i <=user1.length; i++){
     if(user1.charAt(i)===user2)
